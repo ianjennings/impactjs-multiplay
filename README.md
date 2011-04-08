@@ -11,7 +11,7 @@ Anybody with a strong understanding of both impactjs and multilayer networking. 
 A note about the current state of impactjs-multiplay
 ---------------------
 
-This is a very early version of what I hope to build into a plugin. A full package will be available in the future, but for now this repo is for learning purposes only. If you study the code you should be able to figure out whats actually going one, and begin from there.
+This is a very early version of what I hope to build into a plugin. A full package will be available in the future, but for now this repo is for learning purposes only / proof of concept. If you study the code you should be able to figure out whats actually going on, and can begin from there.
 
 Alright, I'm ready
 ---------------------
