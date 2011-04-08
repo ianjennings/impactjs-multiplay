@@ -1,12 +1,12 @@
 Multiplayer Plugin for ImpactJS
 ====================
 
-impactjs-multiplay is going to be a multiplayer framework for the impactjs javascript game engine (http://impactjs.com/) using [faye](https://github.com/jcoglan/faye).
+impactjs-multiplay is going to be a multiplayer framework for the [impactjs javascript game engine](http://impactjs.com/) using [faye](https://github.com/jcoglan/faye).
 
 Who should use this repo?
 ---------------------
 
-Anybody with a strong understanding of both impactjs and multilayer networking. I recommended taking a look at the impactjs docs, and this article on multilayer networking by Valve (http://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking).
+Anybody with a strong understanding of both impactjs and multilayer networking. I recommended taking a look at the impactjs docs, and [this article on multilayer networking by Valve](http://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking).
 
 A note about the current state of impactjs-multiplay
 ---------------------
@@ -16,7 +16,7 @@ This is a very early version of what I hope to build into a plugin. A full packa
 Alright, I'm ready
 ---------------------
 
-My current implementation uses faye (https://github.com/jcoglan/faye) to distribute entity properties from player to player. Normally game logic would be done on the server, but impactjs has trouble running without a window object under nodejs. Instead, a host player acts as a listen server, and broadcasts entity properties through faye. Still with me?
+My current implementation uses [faye](https://github.com/jcoglan/faye) to distribute entity properties from player to player. Normally game logic would be done on the server, but impactjs has trouble running without a window object under nodejs. Instead, a host player acts as a listen server, and broadcasts entity properties through faye. Still with me?
 
 Say that again?
 ---------------------
