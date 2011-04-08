@@ -1,8 +1,7 @@
 Multiplayer Plugin for ImpactJS
 ====================
 
-impactjs-multiplay is going to be a multiplayer framework for the impactjs javascript game engine (http://impactjs.com/) using faye (https://github.com/jcoglan/faye).
-What is impactjs-multiplay?
+impactjs-multiplay is going to be a multiplayer framework for the impactjs javascript game engine (http://impactjs.com/) using [faye](https://github.com/jcoglan/faye).
 
 Who should use this repo?
 ---------------------
